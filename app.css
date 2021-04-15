@@ -37,7 +37,6 @@ header p {
 }
 
 #summary {
-  background-color: aqua;
   padding: 0.5rem 2rem 0.5rem;
 }
 
@@ -139,7 +138,6 @@ h4 {
 }
 
 #references {
-  background-color: rgb(54, 235, 48);
   padding: 0.5rem 2rem 0.5rem;
 }
 
