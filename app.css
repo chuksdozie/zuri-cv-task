@@ -3,7 +3,6 @@ body {
   margin: 0;
   width: 100%;
   box-sizing: border-box;
-  background-color: yellow;
   font-family: "Times New Roman", Times, serif;
 }
 #gen {
@@ -11,7 +10,6 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: rgb(27, 27, 19);
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -55,7 +53,6 @@ p {
 }
 
 #employment {
-  background-color: hotpink;
   padding: 0.5rem 2rem 0.5rem;
 }
 
@@ -100,26 +97,22 @@ h4 {
 }
 
 #education {
-  background-color: rgb(105, 225, 255);
   padding: 0.5rem 2rem 0.5rem;
 }
 
 #schdate {
   display: flex;
   width: 100%;
-  background-color: blue;
   justify-content: space-between;
   margin-bottom: 1rem;
 }
 
 #schdate h4:nth-child(2) {
   justify-self: flex-end;
-  background-color: blueviolet;
   margin-right: 3rem;
 }
 
 #certifications {
-  background-color: rgb(123, 107, 212);
   padding: 0.5rem 2rem 0.5rem;
 }
 
@@ -128,7 +121,6 @@ h4 {
 }
 
 #skills {
-  background-color: rgb(212, 107, 165);
   padding: 0.5rem 2rem 0.5rem;
 }
 
@@ -138,7 +130,6 @@ h4 {
 }
 
 #hobbies {
-  background-color: rgb(55, 125, 216);
   padding: 0.5rem 2rem 0.5rem;
 }
 
@@ -178,7 +169,6 @@ h4 {
   }
 
   #summary {
-    background-color: aqua;
     padding: 0.5rem 2rem 0.5rem;
   }
 
@@ -194,7 +184,6 @@ h4 {
   }
 
   #employment {
-    background-color: hotpink;
     padding: 0.5rem 2rem 0.5rem;
   }
 
@@ -235,14 +224,12 @@ h4 {
   }
 
   #education {
-    background-color: rgb(105, 225, 255);
     padding: 0.5rem 2rem 0.5rem;
   }
 
   #schdate {
     display: flex;
     width: 100%;
-    background-color: blue;
     justify-content: space-between;
     margin-bottom: 1rem;
     font-size: 13px;
@@ -250,12 +237,10 @@ h4 {
 
   #schdate h4:nth-child(2) {
     justify-self: flex-end;
-    background-color: blueviolet;
     margin-right: 1rem;
   }
 
   #certifications {
-    background-color: rgb(123, 107, 212);
     padding: 0.5rem 2rem 0.5rem;
     display: flex;
     flex-wrap: wrap;
@@ -268,7 +253,6 @@ h4 {
   }
 
   #skills {
-    background-color: rgb(212, 107, 165);
     padding: 0.5rem 2rem 0.5rem;
   }
 
@@ -278,7 +262,6 @@ h4 {
   }
 
   #hobbies {
-    background-color: rgb(55, 125, 216);
     padding: 0.5rem 2rem 0.5rem;
   }
 
@@ -288,7 +271,6 @@ h4 {
   }
 
   #references {
-    background-color: rgb(54, 235, 48);
     padding: 0.5rem 2rem 0.5rem;
   }
 
@@ -300,9 +282,6 @@ h4 {
 }
 
 @media only screen and (max-width: 479px) {
-  body {
-    background-color: aqua;
-  }
   #gen {
     max-width: 100%;
   }
@@ -322,7 +301,6 @@ h4 {
   }
 
   #summary {
-    background-color: aqua;
     padding: 0.2rem 1rem 0.5rem;
   }
 
@@ -338,7 +316,6 @@ h4 {
   }
 
   #employment {
-    background-color: hotpink;
     padding: 0.2rem 1rem 0.2rem;
   }
 
@@ -379,14 +356,12 @@ h4 {
   }
 
   #education {
-    background-color: rgb(105, 225, 255);
     padding: 0.2rem 1rem 0.2rem;
   }
 
   #schdate {
     display: flex;
     width: 100%;
-    background-color: blue;
     justify-content: space-between;
     margin-bottom: 1rem;
     font-size: 11px;
@@ -394,12 +369,10 @@ h4 {
 
   #schdate h4:nth-child(2) {
     justify-self: flex-end;
-    background-color: blueviolet;
     margin-right: 1rem;
   }
 
   #certifications {
-    background-color: rgb(123, 107, 212);
     padding: 0.2rem 1rem 0.2rem;
   }
 
@@ -413,7 +386,6 @@ h4 {
   }
 
   #skills {
-    background-color: rgb(212, 107, 165);
     padding: 0.2rem 1rem 0.2rem;
   }
 
@@ -423,7 +395,6 @@ h4 {
   }
 
   #hobbies {
-    background-color: rgb(55, 125, 216);
     padding: 0.2rem 1rem 0.2rem;
   }
 
@@ -433,7 +404,6 @@ h4 {
   }
 
   #references {
-    background-color: rgb(54, 235, 48);
     padding: 0.2rem 1rem 0.2rem;
   }
 
