@@ -323,17 +323,17 @@ h4 {
 
   #summary {
     background-color: aqua;
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.5rem;
   }
 
   h2 {
-    font-size: 13px;
+    font-size: 11px;
     margin-bottom: 1px;
     text-decoration: underline;
   }
 
   p {
-    font-size: 13px;
+    font-size: 11px;
     margin-top: 0px;
   }
 
