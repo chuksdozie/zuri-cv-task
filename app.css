@@ -35,6 +35,10 @@ header p {
   margin-top: 0px;
   margin-bottom: 0;
 }
+header a {
+  color: whitesmoke;
+  text-decoration: none;
+}
 
 #summary {
   padding: 0.5rem 2rem 0.5rem;
