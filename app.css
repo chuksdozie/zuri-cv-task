@@ -151,7 +151,7 @@ h4 {
 
 @media only screen and (max-width: 768px) and (min-width: 480px) {
   body {
-    width: 72vw;
+    width: 100%;
   }
   header {
     background-color: rgb(5, 17, 90);
