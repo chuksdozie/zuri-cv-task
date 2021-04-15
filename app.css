@@ -339,12 +339,12 @@ h4 {
 
   #employment {
     background-color: hotpink;
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.2rem;
   }
 
   h4 {
-    font-size: 13px;
-    padding-left: 2rem;
+    font-size: 11px;
+    padding-left: 1rem;
   }
 
   #kjb {
@@ -352,8 +352,8 @@ h4 {
   }
 
   #job1ul {
-    padding-left: 4rem;
-    font-size: 13px;
+    padding-left: 2rem;
+    font-size: 11px;
   }
 
   #subcategory {
@@ -365,8 +365,8 @@ h4 {
   }
 
   #jobul2 {
-    padding-left: 4rem;
-    font-size: 13px;
+    padding-left: 2rem;
+    font-size: 11px;
   }
 
   #job3 {
@@ -374,13 +374,13 @@ h4 {
   }
 
   #jobul3 {
-    padding-left: 4rem;
-    font-size: 13px;
+    padding-left: 2rem;
+    font-size: 11px;
   }
 
   #education {
     background-color: rgb(105, 225, 255);
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.2rem;
   }
 
   #schdate {
@@ -389,7 +389,7 @@ h4 {
     background-color: blue;
     justify-content: space-between;
     margin-bottom: 1rem;
-    font-size: 13px;
+    font-size: 11px;
   }
 
   #schdate h4:nth-child(2) {
@@ -400,42 +400,42 @@ h4 {
 
   #certifications {
     background-color: rgb(123, 107, 212);
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.2rem;
   }
 
   #certifications a {
-    padding-left: 3rem;
-    font-size: 13px;
+    padding-left: 1rem;
+    font-size: 7px;
   }
 
   #skills {
     background-color: rgb(212, 107, 165);
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.2rem;
   }
 
   #skillul {
-    font-size: 13px;
-    padding-left: 2rem;
+    font-size: 11px;
+    padding-left: 1rem;
   }
 
   #hobbies {
     background-color: rgb(55, 125, 216);
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.2rem;
   }
 
   #hobbiesul {
-    font-size: 13px;
-    padding-left: 2rem;
+    font-size: 11px;
+    padding-left: 1rem;
   }
 
   #references {
     background-color: rgb(54, 235, 48);
-    padding: 0.5rem 2rem 0.5rem;
+    padding: 0.2rem 1rem 0.2rem;
   }
 
   #refdetails {
-    font-size: 13px;
-    padding-left: 2rem;
+    font-size: 11px;
+    padding-left: 1rem;
     list-style-type: none;
   }
 }
