@@ -302,25 +302,23 @@ h4 {
 
 @media only screen and (max-width: 479px){
   body{
-    background-color: aqua;
-    display: flex;
-    justify-content: center;
+  background-color: aqua;
   }
   #gen{
     max-width: 100%;
   }
 
   header {
-    margin: 1rem 1rem 0rem;
+    margin: 0.2rem 0.2rem 0rem;
     padding-bottom: 1rem;
   }
 
   header h1 {
-    font-size: 30px;;
+    font-size: 10px;;
   }
 
   header p {
-    font-size: 13px;
+    font-size: 10px;
     margin-bottom: 1px;
   }
 
