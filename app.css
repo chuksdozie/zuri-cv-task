@@ -257,11 +257,15 @@ h4 {
   #certifications {
     background-color: rgb(123, 107, 212);
     padding: 0.5rem 2rem 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
   }
 
   #certifications a {
     padding-left: 3rem;
     font-size: 13px;
+    max-width: 70px;
+  }
   }
 
   #skills {
